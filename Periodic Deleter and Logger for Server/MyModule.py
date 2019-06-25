@@ -72,10 +72,11 @@ def sendemail(filep,to,start_time,scan_file_count,dup_file_count):
             +"\nNumber of files scanned: """+str(scan_file_count)
             +"\nNumber of Duplicate Files: "+str(dup_file_count)+"\n")    
         
-    sender_email = "aru8ash@gmail.com"
+    sender_email = "something@gmail.com"
     receiver_email = to
     password = input("Type your password and press enter:")
-
+    #Edit the above line with email id and password.
+    
     try:
       # Create a multipart message and set headers
         message = MIMEMultipart()
