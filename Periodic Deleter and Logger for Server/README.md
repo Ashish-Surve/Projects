@@ -13,4 +13,5 @@ Appname Directory_Name time_period to_Email_ID <br>
 2. Directory_Name - the directory to scan periodically.<br>
 3. to_Email_ID- The email id to send the log to.<br>
 
-<h4>Edit the password Field and Username field in the code near Line 77 in MyModule.py to be able to send the email from your email id.</h4><br>
+<h4>1. Edit the password Field and Username field in the code near Line 77 in MyModule.py to be able to send the email from your email id.<br>
+  2. You need schedule library in python for this code to work. Schedule library is'nt present in Python libraries by default.<br>
