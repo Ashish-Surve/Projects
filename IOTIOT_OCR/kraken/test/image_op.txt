@@ -1,0 +1,14 @@
+have a C++ project in Visual Studio 2010 and wish to use OCR. l came across many utorials' for
+Tesseract but sadly, all got was a headache and wasted time.
+In my project l have an image stored as a Mat. One solution to my prohlem is to save this Mlat as an
+image (image.jpg for example) and then call Tesseract executable file like this:
+system('tesseract.exe image. 1Dg out'')
+Which gets me an outpult out.txt and thenl call
+nfile . open (out. txt'');
+to read the output from Tesseract
+It is all good and works like a chair but it is not an optimal solution. In my project l am processing a
+video so save/call . exe/write/rea at 10+ FPS is not what l am really looking for. I want to implemenl
+Tesseract to existing code so to be able to pass a Mal as an argument and immediately get a resull
+as a String.
+Do you know any good tultorial(pref. step-by-step) to implement Tesseract OCR with Visual Studio
+20102 Or your own solution2

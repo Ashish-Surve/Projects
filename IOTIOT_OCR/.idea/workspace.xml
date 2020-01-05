@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01b8d3ae-196f-4694-8880-5db8a14258f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PsYb4MsJtw4sTR2coL22qyZdxg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kraken" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ImageOCR" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ImageOCR" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tesseract" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kraken" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.reconizer13">
+    <configuration name="ImageTransform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ImageOCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tesseract/ImageTransform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Save_DataSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ImageOCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tesseract/Save_DataSet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readjson" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ImageOCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tesseract/readjson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reconizer13" type="PythonConfigurationType" factoryName="Python">
+      <module name="ImageOCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tesseract/reconizer13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ImageTransform" />
+        <item itemvalue="Python.Save_DataSet" />
+        <item itemvalue="Python.readjson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b8d3ae-196f-4694-8880-5db8a14258f3" name="Default Changelist" comment="" />
+      <created>1566664338564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566664338564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578206278430">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="447" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1578206278430" />
+    <state x="673" y="272" width="630" height="567" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577725012784">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="673" y="272" width="630" height="567" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1577725012784" />
+    <state x="723" y="256" width="530" height="598" key="FileChooserDialogImpl" timestamp="1578207330652">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="723" y="256" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1578207330652" />
+    <state width="1825" height="247" key="GridCell.Tab.0.bottom" timestamp="1577601315829">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1825" height="247" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1577601315829" />
+    <state width="1825" height="247" key="GridCell.Tab.0.center" timestamp="1577601315827">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1825" height="247" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1577601315827" />
+    <state width="1825" height="247" key="GridCell.Tab.0.left" timestamp="1577601315826">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1825" height="247" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1577601315826" />
+    <state width="1825" height="247" key="GridCell.Tab.0.right" timestamp="1577601315828">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1825" height="247" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1577601315828" />
+    <state x="359" y="103" key="SettingsEditor" timestamp="1578207697192">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="359" y="103" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1578207697192" />
+    <state x="573" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577725003141">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="573" y="345" key="com.intellij.ide.util.TipDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1577725003141" />
+  </component>
+</project>
